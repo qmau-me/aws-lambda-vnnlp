@@ -1,0 +1,11 @@
+vnnlp/core/StringUtils.class
+vnnlp/core/Regex.class
+vnnlp/core/Utils.class
+vnnlp/core/RDRsegmenter.class
+vnnlp/core/StringConst.class
+vnnlp/core/WordTag.class
+vnnlp/core/Node.class
+vnnlp/core/FWObject.class
+vnnlp/core/Tokenizer.class
+qmau/me/vnnlp/handler/VnNlpHandler.class
+vnnlp/core/Vocabulary.class
